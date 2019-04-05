@@ -1,0 +1,27 @@
+{
+  "name": "seamless_action_cable",
+  "version": "1.0.0",
+  "description": "ACK/NACK and auto-retry support for ActionCable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrpolidario/seamless_action_cable.git"
+  },
+  "keywords": [
+    "seamless",
+    "action_cable",
+    "ack",
+    "nack",
+    "failure-tolerant",
+    "auto-retry"
+  ],
+  "author": "Jules Roman B. Polidario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrpolidario/seamless_action_cable/issues"
+  },
+  "homepage": "https://github.com/jrpolidario/seamless_action_cable#readme"
+}
